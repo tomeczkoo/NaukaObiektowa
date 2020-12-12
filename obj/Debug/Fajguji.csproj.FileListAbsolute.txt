@@ -1,0 +1,6 @@
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Fajguji\Fajguji\bin\Debug\Fajguji.exe.config
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Fajguji\Fajguji\bin\Debug\Fajguji.exe
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Fajguji\Fajguji\bin\Debug\Fajguji.pdb
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Fajguji\Fajguji\obj\Debug\Fajguji.csprojResolveAssemblyReference.cache
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Fajguji\Fajguji\obj\Debug\Fajguji.exe
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Fajguji\Fajguji\obj\Debug\Fajguji.pdb
